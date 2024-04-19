@@ -9,7 +9,7 @@ console.log("app.js()  starting app.js() ... ")
 // ------------------------------------
 // Elastic IP Address of EC2 Instance
 // ------------------------------------
-ec2ServerURL = 'http://44.219.84.233/'
+ec2ServerURL = 'http://44.219.84.233'
 
 
 // Get lat/lng from local storage variables
